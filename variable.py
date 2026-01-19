@@ -1,3 +1,3 @@
 age=20
-name="kalpesh"
-print("my name is ",name,"my age is ",age)
+name="kalpesh" 
+print("my name is ",name,", my age is ",age)
